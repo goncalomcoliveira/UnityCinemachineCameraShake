@@ -18,6 +18,7 @@
     }
   ],
   "dependencies": {
+    "com.goncalomcoliveira.singleton": "1.0.0",
     "com.unity.cinemachine": "3.1.7"
   }
 }
