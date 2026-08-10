@@ -16,5 +16,8 @@
       "description": "Example scene demonstrating the Cinemachine Camera Shake system.",
       "path": "Samples~/Example"
     }
-  ]
+  ],
+  "dependencies": {
+    "com.unity.cinemachine": "3.1.7"
+  }
 }
