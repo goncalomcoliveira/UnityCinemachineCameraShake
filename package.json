@@ -1,0 +1,20 @@
+{
+  "name": "com.goncalomcoliveira.cinemachine-camera-shake",
+  "version": "1.0.0",
+  "displayName": "Cinemachine Camera Shake",
+  "description": "A reusable camera shake system for Unity projects using Cinemachine.",
+  "unity": "6000.3",
+  "documentationUrl": "https://github.com/goncalomcoliveira/UnityCinemachineCameraShake#readme",
+  "author": {
+    "name": "Gonçalo Oliveira",
+    "email": "goncalo.oliveira.creative@gmail.com",
+    "url": "https://github.com/goncalomcoliveira"
+  },
+  "samples": [
+    {
+      "displayName": "Cinemachine Camera Shake Example",
+      "description": "Example scene demonstrating the Cinemachine Camera Shake system.",
+      "path": "Samples~/Example"
+    }
+  ]
+}
