@@ -18,7 +18,6 @@
     }
   ],
   "dependencies": {
-    "com.goncalomcoliveira.singleton": "https://github.com/goncalomcoliveira/UnitySingleton.git",
     "com.unity.cinemachine": "3.1.7"
   }
 }
